@@ -8,7 +8,7 @@
                   <text>左边</text>
             </view>
             <view class='item-right'>
-                  <button>关闭</button>
+                  <button class="btn_close">关闭</button>
             </view>
       </view>
       <text class="text">这里是文本描述，可以查看css修改样式</text>

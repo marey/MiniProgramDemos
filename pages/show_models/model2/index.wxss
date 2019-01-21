@@ -94,3 +94,9 @@
       position: relative;
       align-items: center;
 }
+
+.btn_close {
+      background-image: url("https://cdn0.iconfinder.com/data/icons/round-ui-icons/512/close_red.png");
+      background-repeat: no-repeat;
+      display: inline
+}
