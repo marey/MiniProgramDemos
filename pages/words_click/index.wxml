@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+      <view>
+            <block wx:for="{{word_array}}" wx:key="index" wx:for-item="word">
+                  <button class='btn' bindtap="tap" hover-class="button-hover">{{word}} </button>
+            </block>
+      </view>
+</view>

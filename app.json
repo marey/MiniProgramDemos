@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/words_click/index",
     "pages/index/index",
     "pages/logs/logs"
   ],
