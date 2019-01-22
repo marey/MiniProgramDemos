@@ -1,0 +1,22 @@
+<!--index.wxml-->
+<!-- 遮罩层 -->
+<view class="mask" catchtouchmove="preventTouchMove" wx:if="{{showModal}}"></view>
+<!-- 弹出层 -->
+<view class="modal-dlg" wx:if="{{showModal}}">
+  <view class="bg-dlg">
+    <view class="close-dlg" bindtap='closeDlg'>
+      <view class="close-icon">×</view>关闭
+    </view>
+    <view class="content-dlg">
+      <view class="world">painter</view>
+      <view class="translate">
+        <view>英 ['peinte(r)]</view>
+        <view>n. 画家，着色者,油漆匠,（系船的）缆绳，破诡计画家，着</view>
+      </view>
+    </view>
+    <view class="copy-dlg">
+        复制
+      </view>
+  </view>
+</view>
+<view bindtap="btn" class="btn">弹窗</view>
