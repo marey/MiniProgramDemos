@@ -1,0 +1,78 @@
+<view class="m-container">
+  <view class="menu-title">数据</view>
+  <view class="menu-box">
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      邮箱
+      <view class="menu-item-desc">
+        我绑定的邮箱
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      手机
+      <view class="menu-item-desc">
+        我绑定的手机号
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      生词本
+      <view class="menu-item-desc">
+        我记录的生词本
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      收藏夹
+      <view class="menu-item-desc">
+        我收藏的机经
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      点赞
+      <view class="menu-item-desc">
+        我点赞的留言
+      </view>
+    </button>
+  </view>
+  <view class="menu-title">功能</view>
+  <view class="menu-box">
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      线下模式考验包
+      <view class="menu-item-desc">
+        线下模式，智能打分
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      我邀请的好友
+      <view class="menu-item-desc">
+        拉好友，攒人品
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      一键导出PDF
+      <view class="menu-item-desc">
+        打印出来看更舒服
+      </view>
+    </button>
+    <view class="divider-line"></view>
+    <button class="menu-item">
+      <image class="menu-item-icon email" src='../../../images/sj.jpg'></image>
+      网络斩断
+      <view class="menu-item-desc">
+        诊断您的网络状态
+      </view>
+    </button>
+  </view>
+</view>
